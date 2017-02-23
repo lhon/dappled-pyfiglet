@@ -1,0 +1,17 @@
+name: pyfiglet
+
+filename: notebook.ipynb
+
+description: This notebook displays a figlet given user input.
+
+packages:
+- python=2
+- dappled-core
+- pip:
+  - pyfiglet
+
+channels:
+- http://conda.dappled.io
+
+
+
